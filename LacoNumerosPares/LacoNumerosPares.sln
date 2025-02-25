@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoNumerosPares", "LacoNumerosPares.csproj", "{05771EB8-9BC9-4C22-9FE7-3F524A890583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05771EB8-9BC9-4C22-9FE7-3F524A890583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05771EB8-9BC9-4C22-9FE7-3F524A890583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05771EB8-9BC9-4C22-9FE7-3F524A890583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05771EB8-9BC9-4C22-9FE7-3F524A890583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89221635-7CB9-4119-8808-765B28D7899A}
+	EndGlobalSection
+EndGlobal
