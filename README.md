@@ -1,2 +1,2 @@
 # praticandoCSharp
-Solções CSharp
+Soluções CSharp
